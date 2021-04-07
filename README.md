@@ -1,2 +1,0 @@
-# bakery
-first project
